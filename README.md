@@ -15,7 +15,7 @@ Then change server in Sources/main.swift from yndex to your server.
     next()
 }
 ```
-Usage
+## Usage
 ```
 swift build && ./.build/debug/proxy
 ```
